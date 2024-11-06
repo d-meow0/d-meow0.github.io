@@ -1,8 +1,7 @@
----
-<author1_id>:
-  name: mushoku
----
----
-<author2_id>:
-  name: meowosenpai
----
+mushoku:
+ name: mushoku
+ url: https://www.linkedin.com/in/dipayan-singha44/
+
+meowosenpai:
+ name: meowosenpai
+ url: https://myanimelist.net/profile/Leo43
