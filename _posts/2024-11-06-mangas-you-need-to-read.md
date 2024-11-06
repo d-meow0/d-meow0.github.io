@@ -1,6 +1,7 @@
 ---
 title: "Mangs you must read"
 date: "2024-11-06"
+author: "meowosenpai"
 categories: [Manga]
 tags:  [Manga], [Recommendations]
 ---
