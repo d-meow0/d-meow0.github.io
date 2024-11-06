@@ -4,7 +4,7 @@ title: Animes will watch later trial
 date: 2024-11-06
 categories: [Mangas, Anime]
 tags:  [mangas, anime, recommendations]
-author: meowosenpai
+author: mushoku
 
 ---
 
