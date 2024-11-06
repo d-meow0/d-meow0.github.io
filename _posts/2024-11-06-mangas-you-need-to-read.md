@@ -1,8 +1,10 @@
 ---
-title: "Mangs you must read"
-date: "2024-11-06"
-categories: [Manga]
-tags:  [Manga], [Recommendations]
+
+title: Manga you must read
+
+date: 2024-11-06
+categories: [Mangas, Anime]
+tags:  [mangas, anime, recommendations]
 ---
 
 Broskim let me check :
