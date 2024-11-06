@@ -1,18 +1,10 @@
 ---
-<<<<<<< HEAD
 
 title: Manga you must read
 
 date: 2024-11-06
 categories: [Mangas, Anime]
 tags:  [mangas, anime, recommendations]
-=======
-title: "Mangs you must read"
-date: "2024-11-06"
-author: "meowosenpai"
-categories: [Manga]
-tags:  [Manga], [Recommendations]
->>>>>>> 2bbbf70da9adc89ac808210b6aad8d222607a215
 ---
 
 Broskim let me check :
