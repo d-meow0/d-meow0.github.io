@@ -1,9 +1,4 @@
 <author1_id>:
   name: mushoku
-  linkedin: Dipayan Singha
-  url1: https://www.linkedin.com/in/dipayan-singha44/
 <author2_id>:
   name: meowosenpai
-  MyAnimeList: Leo43
-  url2: https://myanimelist.net/profile/Leo43
-  author: [<author1_id>, <author2_id>]
