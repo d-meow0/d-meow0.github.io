@@ -9,4 +9,4 @@ author: meowosenpai
 
 let me see if that happens
 
-![trial](assets\image\posts\2024-11-23-care-to-give\dp.jpg)
+![trial](/assets/image/posts/2024-11-23-care-to-give/dp.jpg)
